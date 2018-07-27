@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Path Search Algorithm</string>
+    <string name="depth_first">Depth First Search (DFS)</string>
+    <string name="breadth_first">Breadth First Search (BFS)</string>
+    <string name="a_star_BF">A* Search (base on BFS)</string>
+    <string name="dijkstra">Dijkstra Search</string>
+    <string name="target">target </string>
+    <string name="clean_path">Clean Path</string>
+    <string name="clean_map">Clean Map</string>
+    <string name="go">Go</string>
+    <string name="slow_down">    - - -   </string>
+    <string name="speed_up">   + + +    </string>
+    <string name="used_steps">Used Steps: </string>
+    <string name="length_of_path">Length of Path: </string>
+</resources>
