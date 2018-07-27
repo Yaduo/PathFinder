@@ -7,8 +7,17 @@
 #### full video: https://youtu.be/Gl4tVw8jamY
 
 ### Demo
+* compare start:
 ![](https://imgur.com/bcJY8JZ.png)
 
+* bfs:
+![](https://imgur.com/9PNjeBU.gif)
+
+* dfs:
+![](https://imgur.com/1hit71r.gif)
+
+* A* :
+![](https://imgur.com/i7GsnBu.gif)
 
 * total result:
 ![](https://imgur.com/D1Zq2Ko.png)
