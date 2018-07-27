@@ -4,6 +4,10 @@
 * Recode the paths (searching step) into a HashMap, and draw these steps by using Canvas
 * Implemented the game logic control system by using multi-thread, such as game start, speed up and slow down
 
+#### full video: https://youtu.be/Gl4tVw8jamY
+
 ### Demo
 
 ![](https://imgur.com/bcJY8JZ.png)
+
+
