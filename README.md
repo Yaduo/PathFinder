@@ -5,3 +5,5 @@
 * Implemented the game logic control system by using multi-thread, such as game start, speed up and slow down
 
 ### Demo
+
+![](https://imgur.com/bcJY8JZ.png)
