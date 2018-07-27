@@ -10,10 +10,10 @@
 * compare start:
 ![](https://imgur.com/bcJY8JZ.png)
 
-* bfs:
+* dfs:
 ![](https://imgur.com/9PNjeBU.gif)
 
-* dfs:
+* bfs:
 ![](https://imgur.com/1hit71r.gif)
 
 * A* :
